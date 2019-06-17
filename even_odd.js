@@ -8,7 +8,7 @@ function evenOddCheck(number) {
             value = JSON.parse(tempArr[i])
             evenSum =+ value;
         } else {
-            ovalue = JSON.parse(tempArr[i])
+            value = JSON.parse(tempArr[i])
             oddSum =+ value;
         }
     }
